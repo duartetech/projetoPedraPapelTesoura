@@ -60,21 +60,6 @@ button img {
     color: #333;
 }
 
-.redes-sociais {
-    list-style: none;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-}
-
-.redes-sociais a {
-    text-decoration: none;
-    color: #333;
-    margin: 0 10px;
-    font-size: 24px;
-}
-
 .perdeu{
     background-color: #ffdde0;
     color: #d32f2f"
